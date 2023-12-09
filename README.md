@@ -19,3 +19,5 @@ When you are ready to submit your work, follow the instructions that are at the 
 ### Academic Honesty
 
 **DO NOT COPY** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ec9c3d4f-3186-4ccd-9762-c1b8e7a50af1/deploy-status)](https://app.netlify.com/sites/splendid-fairy-bfcd96/deploys)
